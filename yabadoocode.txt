@@ -1,9 +1,9 @@
 Note: 1.) when you run the script is going to ask you to enter 
 "Enter encryption password: " just press the enter key 
 
-Note: 2.) next it will ask you to enter "Enter access key to continue" just choose and access key for the access keys below 
+Note: 2.) next it will ask you to enter "Enter access key to continue" just choose and access key from the access keys below 
 
-Note: 3.) net will will ask you to enter " Enter password to login:" just pick the password fom the password below
+Note: 3.) next it will ask you to enter " Enter password to login:" just pick the password from the password below
 
 
 [ Access_keys=
