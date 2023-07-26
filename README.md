@@ -58,9 +58,9 @@ $ git clone https://github.com/fowahcreation/techboy237facbeookhack.git
 ```
 #### RUN SCRIPT
 ```python
-$ cd uidcr3k
-$ git pull
-$ python uidcr3k.py
+$ cd yabadootv-android
+$ ls
+$ python yabadoo.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
