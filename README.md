@@ -51,10 +51,12 @@ CONTACT : <p>Techboy237.cm@gmail.com</p>  <br> <br>
 #### INSTALL TOOL ON TERMUX
 ```python
 $ pkg update && pkg upgrade
-$ pkg install python
-$ pip install mechanize requests bs4
+$ pkg install python 
+$ pkg install rust
 $ pkg install git
-$ git clone https://github.com/fowahcreation/techboy237facbeookhack.git
+$ pip install bcrypt
+$ pkg install python-cryptography
+$ git clone https://github.com/techboy237cm/yabadootv-android.git
 ```
 #### RUN SCRIPT
 ```python
