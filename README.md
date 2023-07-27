@@ -19,7 +19,8 @@ Want to contact <a href="https://github.com/techboy237cm"><b>Techboy237 </a> ?</
 #### INSTALL TOOL ON TERMUX
 ```python
 $ pkg update && pkg upgrade
-$ pkg install python 
+$ pkg install python
+$ pip install requests
 $ pkg install rust
 $ pkg install git
 $ pip install bcrypt
