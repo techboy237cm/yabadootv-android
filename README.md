@@ -35,7 +35,7 @@ $ python yabadoo.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
-[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)]([https://t.me/Techboy237](https://t.me/AlphaTech237))
+[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/Techboy237) <br>
 
 <br>
 
