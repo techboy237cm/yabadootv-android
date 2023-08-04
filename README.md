@@ -35,15 +35,16 @@ $ python yabadoo.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
-[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/Techboy237) <br>
+[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/AlphaTech237) <br>
 
 <br>
 
 #### MY SOCIAL MEDIA
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://t.me/Techboy237) <br>
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/techboy237cm) <br>
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://web.facebook.com/techboy237) <br>
 [![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/techboy237.cm) <br>
+[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/techboy237) <br>
 
 
 <h2> THANKS FOR VISIT ✘✘ <h2\>
