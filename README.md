@@ -49,4 +49,4 @@ $ python yabadoo.py
 #### [~] SINGLE COMMAND
 
 ```python
-termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; apt install python -y ; pip install python ; pip install git ; pip install requests ; pip install mechanize ; pkg install rust ; pip install bcrypt ; pip install pycrul ; pkg install git ; pkg install python-cryptography ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/yabadootv-android.git ; cd yabadootv-android ; python yabadoo.py
+termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pkg install rust ; pip install bcrypt ; pip install pycrul ; pkg install git ; pkg install python-cryptography ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/yabadootv-android.git ; cd yabadootv-android ; python yabadoo.py
