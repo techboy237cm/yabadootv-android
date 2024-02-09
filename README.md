@@ -24,7 +24,7 @@ $ pip install requests
 $ pkg install rust
 $ pkg install git
 $ pip install bcrypt
-$ pkg install python-cryptography
+$ pip install cryptography
 $ git clone https://github.com/techboy237cm/yabadootv-android.git
 ```
 #### RUN SCRIPT
