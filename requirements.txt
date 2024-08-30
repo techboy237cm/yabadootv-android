@@ -1,0 +1,4 @@
+requests
+certifi
+aiohttp
+beautifulsoup4
