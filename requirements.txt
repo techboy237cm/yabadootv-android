@@ -1,9 +1,2 @@
 requests
-uuid
-logging
-hashlib
-os
-random
-string
-subprocess
 python-dotenv
