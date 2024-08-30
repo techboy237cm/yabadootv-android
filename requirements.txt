@@ -1,4 +1,10 @@
 requests
-certifi
-aiohttp
-beautifulsoup4
+platform
+uuid
+logging
+hashlib
+os
+random
+string
+subprocess
+python-dotenv
